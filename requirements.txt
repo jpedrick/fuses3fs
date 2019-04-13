@@ -1,1 +1,3 @@
 fuse-python
+boto3
+xdg
